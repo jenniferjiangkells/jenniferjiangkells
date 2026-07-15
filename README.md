@@ -8,8 +8,7 @@
 - [miade-llm](https://github.com/uclh-criu/miade-llm) 🤖
 
 ### Fun facts
-- 🧠 Neuroscientist turned engineer (MScs from Imperial & UCL)
-- 🌎 I've spent my life so far in roughly equal thirds between Canada, China, and the UK 🇨🇦 🇨🇳 🇬🇧
 - 🏋️‍♀️🎞️ In my spare time I enjoy lifting heavy and going to indie cinemas
+- 🗺️ I'm a huge map fan. Play [Date the globe](https://datetheglobe.jenniferjiangkells.com/)!
 
 Check out my [website](https://jenniferjiangkells.com), reach me on [LinkedIn](https://www.linkedin.com/in/jenniferjiangkells) or shoot me an [email](mailto:jenniferjiangkells@gmail.com)!
